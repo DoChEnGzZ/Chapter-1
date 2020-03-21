@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 17 22:32:27 CST 2020
+0.baseType=DIRECTORY
+0.base=E\:\\HelloWorld\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

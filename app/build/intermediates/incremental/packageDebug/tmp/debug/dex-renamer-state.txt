@@ -1,0 +1,4 @@
+#Sat Mar 21 16:24:23 CST 2020
+base.0=E\:\\HelloWorld\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
